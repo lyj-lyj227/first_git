@@ -1,2 +1,2 @@
 # first_git
-ljr
+This is ljr and lyj first project.
